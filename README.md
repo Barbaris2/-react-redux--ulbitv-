@@ -1,4 +1,4 @@
-# -ReactJS--simple-website
+# -react-redux--ulbitv-
 
 Практика работы с react-redux и redux-thunk
 
